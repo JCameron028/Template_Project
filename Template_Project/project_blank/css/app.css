@@ -1,0 +1,7 @@
+* {
+  margin: 0;
+  padding: 0
+  background: rgba:#4db5ff;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
